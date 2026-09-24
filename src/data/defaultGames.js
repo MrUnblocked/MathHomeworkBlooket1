@@ -1,0 +1,15 @@
+export const DEFAULT_GAMES = [
+  {
+    id: "minecraft",
+    title: "Minecraft",
+    category: "Action",
+    description: "Play Minecraft (Eaglercraft 1.8) directly in your browser unblocked. Complete sandbox survival and creative multiplayer worlds, mining, crafting, building, and combat.",
+    controls: "WASD to Walk, Space to Jump, Mouse to Look & Mine/Place, E for Inventory, Esc to Pause/Menu.",
+    rating: 5.0,
+    plays: 248900,
+    featured: true,
+    tags: ["Minecraft", "Eaglercraft", "3D", "Sandbox", "Survival", "Multiplayer", "Unblocked"],
+    iframeSrc: "https://eaglercraft1-8.github.io/",
+    iframeCode: "<iframe id=\"iframehtml5\" width=\"100%\" height=\"100%\" frameborder=\"0\" border=\"0\" scrolling=\"auto\" class=\"iframe-default\" allowfullscreen=\"true\" src=\"https://eaglercraft1-8.github.io/\" title=\"Eaglercraft Game\" sandbox=\"allow-forms allow-modals allow-same-origin allow-scripts allow-pointer-lock\"></iframe>"
+  }
+];

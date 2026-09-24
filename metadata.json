@@ -1,0 +1,6 @@
+{
+  "name": "SHHH Dont tell the teachers",
+  "description": "Unblocked Minecraft games hub with tab cloaking and panic switch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
